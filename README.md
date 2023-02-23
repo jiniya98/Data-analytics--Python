@@ -1,2 +1,2 @@
-# Data-analytics--Python
-Assignment of python
+# Python Assignment
+A repositary of python codes
